@@ -3,6 +3,7 @@
 import os
 import sys
 
+#TEST ASHM
 
 def main():
     """Run administrative tasks."""
